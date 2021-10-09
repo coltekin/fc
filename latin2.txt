@@ -1,0 +1,51 @@
+latin	german
+iterum	wieder	
+placere	gefallen
+pergere	forsetzen
+iam	gleich
+quo?	wohin?
+igitur	also
+ducere	führen
+num	etwa
+tacere	schweigen
+quis	wer?
+ergo	deshalb also
+acedere	sich nâhern
+praebere	bitten
+redere	zurückgeben
+aut	oder
+manere	erwarten
+tutus	sicher
+eius	sein ihr
+no iam	nicht mehr
+incitare	anfeuern
+inter	zwischen unter
+praestere	besser sein
+crescere	wachsen
+fere	fast etwa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
